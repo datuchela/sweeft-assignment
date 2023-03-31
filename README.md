@@ -15,11 +15,11 @@ Write an application where a person can view the user list (picture, name etc.) 
 
 Since the amount of users are quite large, only the small parts of the data should be fetched at the time. For this, use **infinite scroll** functionality (Once you have scrolled the whole page, get the next page of the data until the end of the user list).
 
-Each of the user displayed on the page, should be clickable and should take you to their corresponding pages where the full information about this person along with their friend list will be seen. Friend list could be quite large, so use **infinite scroll** here as well.
+Each of the user displayed on the page should be clickable and should take you to their corresponding pages where the full information about this person along with their friends list will be seen. Friends list could be quite large, so use **infinite scroll** here as well.
 
 You can use any technology and approach you like.
 
 **Infinite scroll logic should be implemented by you, without using any external libraries.**
 
-API Documentation - [http://sweeftdigital-intern.eu-central-1.elasticbeanstalk.com/swagger]
-Example - [http://sweeftdigital-intern.s3-website.eu-central-1.amazonaws.com/]
+API Documentation - [http://sweeftdigital-intern.eu-central-1.elasticbeanstalk.com/swagger] <br/>
+Example - [http://sweeftdigital-intern.s3-website.eu-central-1.amazonaws.com/] <br/>
