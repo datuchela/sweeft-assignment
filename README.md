@@ -1,6 +1,6 @@
 # Sweeft Acceleration Assignment
 
-Fun and challenging task that I have been given as an assignment from Sweeft Digital.
+Fun and challenging task that I have been given as an assignment from Sweeft Digital
 
 ## Run this locally
 
