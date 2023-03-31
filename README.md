@@ -21,5 +21,5 @@ You can use any technology and approach you like.
 
 **Infinite scroll logic should be implemented by you, without using any external libraries.**
 
-API Documentation - []: http://sweeftdigital-intern.eu-central-1.elasticbeanstalk.com/swagger <br/>
-Example - []: http://sweeftdigital-intern.s3-website.eu-central-1.amazonaws.com/ <br/>
+API Documentation - http://sweeftdigital-intern.eu-central-1.elasticbeanstalk.com/swagger <br/>
+Example - http://sweeftdigital-intern.s3-website.eu-central-1.amazonaws.com/ <br/>
